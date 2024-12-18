@@ -1,0 +1,5 @@
+*Observer Test
+V1 OBS 0 1
+V2 VDD 0 3.3
+.lib C:\Users\maxtech\AppData\Local\LTspice\lib\cmp\standard.mos
+.end
