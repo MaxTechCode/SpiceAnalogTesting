@@ -1,4 +1,4 @@
-# SpiceAnalogTesting
+# LTSpice Analog Testing Framework
 
 This repository holds a python structure which can be used to interface LTSpice via [PyLTSpice](https://pypi.org/project/PyLTSpice/) in order to enable analog test development.
 
