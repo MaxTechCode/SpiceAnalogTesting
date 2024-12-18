@@ -10,6 +10,10 @@ This project was created as part of a university project at the University of Br
 
 Currently, a complete object oriented structure is created to allow for quick modification of the netlist in order to inject/eject and activate/deactivate injection points and observers. There is only the capability to pull a node to supply voltage and ground currently available. Also only a observer which inserts an inverter is currently implemented. Additionally a simple transistor fault model consisting of six faults following this [paper](https://doi.org/10.1109/SBCCI55532.2022.9893224) is implemented. For resistors only a short and open fault is present and for capacitors only a short fault can be injected currently.
 
+## Getting Started
+
+Both the ``functional.ipynb`` and ``structural.ipynb`` jupyter notebooks provide examples which use the structure to perfrom an analysis on the circuit ``SPICE\amplifier_base.net``. Have a look.
+
 ## Credits 
 
 ### On/Off Keying BIST scheme
