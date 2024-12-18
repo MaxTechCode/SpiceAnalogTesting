@@ -4,7 +4,7 @@ This repository holds a python structure which can be used to interface LTSpice 
 
 ## Foundation of this Project
 
-This project was created as part of a university project at the University of British Columbia (EECE 571I, Prof. André Ivanov) and follows the initial idea of the below mentioned [paper](https://doi.org/10.1109/VTS60656.2024.10538672). The authors introduce a approach for built-in self-test which uses injection points to inject perturbances and observe these through few observation nodes.
+This project was created as part of a university project at the University of British Columbia (EECE 571I, Prof. André Ivanov) and follows the initial idea of the below mentioned [paper](https://doi.org/10.1109/VTS60656.2024.10538672). The authors introduce an approach for built-in self-test which uses injection points to inject perturbances and observe these through few observation nodes.
 
 ## Current State
 
