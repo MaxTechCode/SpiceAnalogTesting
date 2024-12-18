@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LTSpice Analog Testing Framework
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Maximilian
+    family-names: Hofschen
+    affiliation: Technical University of Munich (TUM)
+repository-code: 'https://github.com/MaxTechCode/SpiceAnalogTesting'
+abstract: >-
+  Framework written in Python to interface LTSpice over
+  PyLTSpice for analog test generation and validation.
+keywords:
+  - BIST
+  - built-in self-test
+  - analog testing
+  - IC testing
+license: MIT
